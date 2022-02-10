@@ -1,0 +1,16 @@
+block-vibrate-options:
+  GRASS_BLOCK:
+    level: 10
+    duration: 100
+  DIRT:
+    level: 10
+    duration: 100
+  STONE:
+    level: 20
+    duration: 150
+  COBBLESTONE:
+    level: 20
+    duration: 150
+damage-vibrate-options:
+  level: 50
+  duration: 250
